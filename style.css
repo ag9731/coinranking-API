@@ -1,0 +1,12 @@
+body{
+    width:100%;
+}
+table{
+    width:100%;
+}
+/* @media(max-width:1280px)
+{
+    table{
+        width: 100%;
+    }
+} */
